@@ -1,4 +1,4 @@
-const API_URL = 'https://jsonplaceholder.typicode.com/poss';
+const API_URL = 'https://jsonplaceholder.typicode.com/posts';
 const GET_URL = API_URL + '?_limit=5';
 
 const loadBtn = document.getElementById('loadBtn');
